@@ -22,8 +22,8 @@ To create an AQI (Air Quality Index) dashboard using Excel and Power BI that pre
 
 ### 📊 Dashboard Preview
 
-![AQI Dashboard](<img width="1165" height="668" alt="Screenshot 2026-04-23 133707" src="https://github.com/user-attachments/assets/780ecd51-0633-40c4-992d-977e9c487669" />
-)
+![AQI Dashboard](
+
 
 ---
 
